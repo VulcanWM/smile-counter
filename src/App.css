@@ -1,6 +1,17 @@
 button {
   margin-left: 10px;
   margin-right: 10px;
+  border-radius:5px;
+  border: 1.5px solid black;
+  background-color: rgb(99, 196, 237);
+  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: rgb(31, 173, 234);
 }
 
 .content {
@@ -15,6 +26,7 @@ button {
   width: 50vw;
   text-align: center;
   overflow-wrap: break-word;
+  background-color: beige;
 }
 
 @media only screen and (max-width: 600px) {
