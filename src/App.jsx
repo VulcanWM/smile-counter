@@ -29,7 +29,7 @@ function App() {
       <button onClick={() => changeSmileCount(1)}>+</button>
       <button onClick={() => changeSmileCount(-1)}>-</button><br/>
       <button>
-        <a target="_blank" href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(`My Smile Count is ${smiles}!\nThink you can top me?\nFind out here: https://vulcanwm.github.io/smile-counter/ #SmileCounter #MakeEveryoneSmile`)}`} data-size="large">Tweet your Smile Count</a>
+        <a target="_blank" href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(`My Smile Count is ${smiles}!\n\nThink you can top me?\n\nFind out here: https://vulcanwm.github.io/smile-counter/ \n\n#SmileCounter #MakeEveryoneSmile`)}`} data-size="large">Tweet your Smile Count</a>
       </button>
     </div>
   )
