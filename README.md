@@ -48,5 +48,3 @@ npm run dev
 - Add a graph to visually track smile count over time
 - Add a "reason for smile" text input
 - Connect to social media to spread more smiles!
-
-Hope this helps! Let me know if you have any other questions.
