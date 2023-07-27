@@ -1,6 +1,6 @@
 # Smile Counter
 
-Try to keep your smile count as high as possible by spreading joy! This app allows you to track the number of smiles you bring to others.
+Try to keep your smile count as high as possible by spreading joy! This app allows you to track the number of smiles and frowns you bring to others.
 
 ## Demo
 
